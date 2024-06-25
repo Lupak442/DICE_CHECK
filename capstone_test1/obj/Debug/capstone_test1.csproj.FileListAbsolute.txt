@@ -1,0 +1,250 @@
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\dll\x86\opencv_videoio_ffmpeg451.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\dll\x64\opencv_videoio_ffmpeg451_64.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\capstone_test1.exe.config
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\capstone_test1.exe
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\capstone_test1.pdb
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\System.Drawing.Common.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\System.ValueTuple.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.xml
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\System.Buffers.xml
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\System.ValueTuple.xml
+C:\Users\user\source\repos\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\capstone_test1\capstone_test1\obj\Debug\capstone_test1.Form1.resources
+C:\Users\user\source\repos\capstone_test1\capstone_test1\obj\Debug\capstone_test1.Properties.Resources.resources
+C:\Users\user\source\repos\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.CopyComplete
+C:\Users\user\source\repos\capstone_test1\capstone_test1\obj\Debug\capstone_test1.exe
+C:\Users\user\source\repos\capstone_test1\capstone_test1\obj\Debug\capstone_test1.pdb
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\x86\tesseract41.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\x64\tesseract41.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\Tesseract.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\pdfium.vanilla.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-patterns
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-words
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\osd.traineddata
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttf
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttx
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\tessdata\eng.base.traineddata
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_best\eng.best.traineddata
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_fast\eng.fast.traineddata
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\pdfium.vanilla.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-patterns
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-words
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\osd.traineddata
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttf
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttx
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\tessdata\eng.base.traineddata
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_best\eng.best.traineddata
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_fast\eng.fast.traineddata
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\IronOcr.dll
+C:\Users\user\source\repos\capstone_test1\capstone_test1\bin\Debug\IronOcr.xml
+C:\Users\user\source\repos\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.ResolveComReference.cache
+D:\capstone_test1\capstone_test1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\capstone_test1\capstone_test1\bin\Debug\dll\x86\opencv_videoio_ffmpeg451.dll
+D:\capstone_test1\capstone_test1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\capstone_test1\capstone_test1\bin\Debug\dll\x64\opencv_videoio_ffmpeg451_64.dll
+D:\capstone_test1\capstone_test1\bin\Debug\x86\leptonica-1.80.0.dll
+D:\capstone_test1\capstone_test1\bin\Debug\x86\tesseract41.dll
+D:\capstone_test1\capstone_test1\bin\Debug\x64\leptonica-1.80.0.dll
+D:\capstone_test1\capstone_test1\bin\Debug\x64\tesseract41.dll
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\pdfium.vanilla.dll
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-patterns
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-words
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\osd.traineddata
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttf
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttx
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\tessdata\eng.base.traineddata
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_best\eng.best.traineddata
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_fast\eng.fast.traineddata
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\pdfium.vanilla.dll
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-patterns
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-words
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\osd.traineddata
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttf
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttx
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\tessdata\eng.base.traineddata
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_best\eng.best.traineddata
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_fast\eng.fast.traineddata
+D:\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+D:\capstone_test1\capstone_test1\bin\Debug\capstone_test1.exe.config
+D:\capstone_test1\capstone_test1\bin\Debug\capstone_test1.exe
+D:\capstone_test1\capstone_test1\bin\Debug\capstone_test1.pdb
+D:\capstone_test1\capstone_test1\bin\Debug\IronOcr.dll
+D:\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.dll
+D:\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.Extensions.dll
+D:\capstone_test1\capstone_test1\bin\Debug\System.Buffers.dll
+D:\capstone_test1\capstone_test1\bin\Debug\System.Drawing.Common.dll
+D:\capstone_test1\capstone_test1\bin\Debug\System.Memory.dll
+D:\capstone_test1\capstone_test1\bin\Debug\System.Numerics.Vectors.dll
+D:\capstone_test1\capstone_test1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\capstone_test1\capstone_test1\bin\Debug\System.ValueTuple.dll
+D:\capstone_test1\capstone_test1\bin\Debug\Tesseract.dll
+D:\capstone_test1\capstone_test1\bin\Debug\IronOcr.xml
+D:\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.xml
+D:\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.Extensions.xml
+D:\capstone_test1\capstone_test1\bin\Debug\System.Buffers.xml
+D:\capstone_test1\capstone_test1\bin\Debug\System.Memory.xml
+D:\capstone_test1\capstone_test1\bin\Debug\System.Numerics.Vectors.xml
+D:\capstone_test1\capstone_test1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\capstone_test1\capstone_test1\bin\Debug\System.ValueTuple.xml
+D:\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.AssemblyReference.cache
+D:\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.SuggestedBindingRedirects.cache
+D:\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.ResolveComReference.cache
+D:\capstone_test1\capstone_test1\obj\Debug\capstone_test1.Form1.resources
+D:\capstone_test1\capstone_test1\obj\Debug\capstone_test1.Properties.Resources.resources
+D:\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.GenerateResource.cache
+D:\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.CoreCompileInputs.cache
+D:\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.CopyComplete
+D:\capstone_test1\capstone_test1\obj\Debug\capstone_test1.exe
+D:\capstone_test1\capstone_test1\obj\Debug\capstone_test1.pdb
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\dll\x86\opencv_videoio_ffmpeg451.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\dll\x64\opencv_videoio_ffmpeg451_64.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\x86\tesseract41.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\x64\tesseract41.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\pdfium.vanilla.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-patterns
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-words
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\osd.traineddata
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttf
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttx
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\tessdata\eng.base.traineddata
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_best\eng.best.traineddata
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_fast\eng.fast.traineddata
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\pdfium.vanilla.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-patterns
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-words
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\osd.traineddata
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttf
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttx
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\tessdata\eng.base.traineddata
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_best\eng.best.traineddata
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_fast\eng.fast.traineddata
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\capstone_test1.exe.config
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\capstone_test1.exe
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\capstone_test1.pdb
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\IronOcr.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\System.Buffers.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\System.Drawing.Common.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\System.Memory.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\System.ValueTuple.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\Tesseract.dll
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\IronOcr.xml
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.xml
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\System.Buffers.xml
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\System.Memory.xml
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\bin\Debug\System.ValueTuple.xml
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.AssemblyReference.cache
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.SuggestedBindingRedirects.cache
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.ResolveComReference.cache
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\obj\Debug\capstone_test1.Form1.resources
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\obj\Debug\capstone_test1.Properties.Resources.resources
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.GenerateResource.cache
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.CopyComplete
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\obj\Debug\capstone_test1.exe
+C:\Users\louis\OneDrive\바탕 화면\capstone_test1\capstone_test1\obj\Debug\capstone_test1.pdb
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\dll\x86\opencv_videoio_ffmpeg451.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\dll\x64\opencv_videoio_ffmpeg451_64.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\x86\tesseract41.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\x64\tesseract41.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\pdfium.vanilla.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-patterns
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\eng.user-words
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\osd.traineddata
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttf
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\pdf.ttx
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\tessdata\eng.base.traineddata
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_best\eng.best.traineddata
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\tessdata\tessdata_fast\eng.fast.traineddata
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\pdfium.vanilla.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-patterns
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\eng.user-words
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\osd.traineddata
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttf
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\pdf.ttx
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\tessdata\eng.base.traineddata
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_best\eng.best.traineddata
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\tessdata\tessdata_fast\eng.fast.traineddata
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\capstone_test1.exe.config
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\capstone_test1.exe
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\capstone_test1.pdb
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\IronOcr.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\System.Buffers.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\System.Drawing.Common.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\System.Memory.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\System.ValueTuple.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\Tesseract.dll
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\IronOcr.xml
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.xml
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\System.Buffers.xml
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\System.Memory.xml
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\bin\Debug\System.ValueTuple.xml
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.AssemblyReference.cache
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.ResolveComReference.cache
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\obj\Debug\capstone_test1.Form1.resources
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\obj\Debug\capstone_test1.Properties.Resources.resources
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.GenerateResource.cache
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\obj\Debug\capstone_test1.csproj.CopyComplete
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\obj\Debug\capstone_test1.exe
+C:\Users\louis\OneDrive\바탕 화면\3학년2학기\윈프\capstone_test1\capstone_test1\obj\Debug\capstone_test1.pdb
